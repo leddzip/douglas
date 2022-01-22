@@ -1,0 +1,6 @@
+[run]
+omit = [".*", "*/site-packages/*", "tests/*"]
+source = douglas_security_manager
+
+[report]
+fail_under = 100
